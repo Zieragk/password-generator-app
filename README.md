@@ -16,7 +16,7 @@ Una aplicación web simple y segura para generar contraseñas fuertes. ¡Hecha c
 4. Abre `http://127.0.0.1:5000/`
 
 ## 📱 Demo
-[Despliega en Heroku o Vercel para un demo en vivo] (agrega link si lo haces)
+[![Deployed on Render](https://password-generator-app-5dj2.onrender.com)](https://password-generator-app-5dj2.onrender.com)
 
 ## 🤝 Contribuye
 ¡Forkea y abre un PR! Ideas: Agregar guardado en archivo, multi-idioma, o integración con 2FA.
@@ -26,5 +26,6 @@ MIT License - ¡Úsala libremente!
 
 ## ⭐ Stars y Forks
 Si te gusta, ¡dale una estrella! Comparte en Reddit, Twitter o Hacker News para hacerlo viral.
+
 
 ![Badge de stars](https://img.shields.io/github/stars/tu-usuario/password-generator-app?style=social)
