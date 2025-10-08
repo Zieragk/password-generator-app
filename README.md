@@ -10,7 +10,7 @@ Una aplicación web simple y segura para generar contraseñas fuertes. ¡Hecha c
 - Generación criptográficamente segura (usando `secrets`)
 
 ## 🚀 Instalación
-1. Clona el repo: `git clone https://github.com/tu-usuario/password-generator-app.git`
+1. Clona el repo: `git clone https://github.com/zieragk/password-generator-app.git`
 2. Instala dependencias: `pip install flask`
 3. Ejecuta: `python app.py`
 4. Abre `http://127.0.0.1:5000/`
@@ -29,4 +29,5 @@ Si te gusta, ¡dale una estrella!
 
 
 ![Badge de stars](https://img.shields.io/github/stars/zieragk/password-generator-app?style=social)
+
 
