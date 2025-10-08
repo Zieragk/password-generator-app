@@ -22,10 +22,11 @@ Una aplicación web simple y segura para generar contraseñas fuertes. ¡Hecha c
 ¡Forkea y abre un PR! Ideas: Agregar guardado en archivo, multi-idioma, o integración con 2FA.
 
 ## 📄 Licencia
-MIT License - ¡Úsala libremente!
+MIT License 
 
 ## ⭐ Stars y Forks
-Si te gusta, ¡dale una estrella! Comparte en Reddit, Twitter o Hacker News para hacerlo viral.
+Si te gusta, ¡dale una estrella! 
 
 
-![Badge de stars](https://img.shields.io/github/stars/tu-usuario/password-generator-app?style=social)
+![Badge de stars](https://img.shields.io/github/stars/zieragk/password-generator-app?style=social)
+
