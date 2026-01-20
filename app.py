@@ -4,7 +4,7 @@ import string
 
 app = Flask(__name__)
 
-# Configuración para contraseñas seguras
+
 ALPHABET = string.ascii_letters + string.digits + string.punctuation
 MIN_LENGTH = 8
 MAX_LENGTH = 50
@@ -22,7 +22,7 @@ def generate_password():
     include_digits = data.get('include_digits', True)
     include_symbols = data.get('include_symbols', True)
     
-    # Filtrar alfabeto basado en opciones
+    
     alphabet = ''
     if include_lower:
         alphabet += string.ascii_lowercase
